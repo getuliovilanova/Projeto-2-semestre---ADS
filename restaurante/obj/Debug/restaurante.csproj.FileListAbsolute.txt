@@ -1,0 +1,119 @@
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\restaurante.exe.config
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\restaurante.exe
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\restaurante.pdb
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.csprojAssemblyReference.cache
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.frmLogin.resources
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.Properties.Resources.resources
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.csproj.GenerateResource.cache
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.csproj.CoreCompileInputs.cache
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.exe
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.pdb
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.frmMenu.resources
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\BouncyCastle.Crypto.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\Google.Protobuf.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\K4os.Compression.LZ4.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\K4os.Hash.xxHash.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\MySql.Data.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\Renci.SshNet.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\System.Buffers.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\System.Memory.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\System.Numerics.Vectors.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\Ubiety.Dns.Core.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\Zstandard.Net.dll
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\Google.Protobuf.xml
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\K4os.Compression.LZ4.xml
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\K4os.Hash.xxHash.xml
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\MySql.Data.xml
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\Renci.SshNet.xml
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\System.Buffers.xml
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\System.Memory.xml
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\System.Numerics.Vectors.xml
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.csproj.CopyComplete
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.frmCardapio.resources
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.frmClientes.resources
+D:\Getulio\uninove\projeto_2s\restaurante\restaurante\obj\Debug\restaurante.frmPedidos.resources
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\restaurante.exe.config
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\restaurante.exe
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\restaurante.pdb
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\BouncyCastle.Crypto.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\Google.Protobuf.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\K4os.Compression.LZ4.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\K4os.Hash.xxHash.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\MySql.Data.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\Renci.SshNet.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\System.Buffers.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\System.Memory.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\System.Numerics.Vectors.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\Ubiety.Dns.Core.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\Zstandard.Net.dll
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\Google.Protobuf.xml
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\K4os.Compression.LZ4.xml
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\K4os.Hash.xxHash.xml
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\MySql.Data.xml
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\Renci.SshNet.xml
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\System.Buffers.xml
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\System.Memory.xml
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\System.Numerics.Vectors.xml
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.csprojAssemblyReference.cache
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.frmPedidos.resources
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.frmCardapio.resources
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.frmClientes.resources
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.frmLogin.resources
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.frmMenu.resources
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.Properties.Resources.resources
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.csproj.GenerateResource.cache
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.csproj.CoreCompileInputs.cache
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.csproj.CopyComplete
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.exe
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.pdb
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.frmNovoItem.resources
+D:\Getulio\uninove\projeto_2s\restaurante - Copia\restaurante\obj\Debug\restaurante.frmPesquisaCli.resources
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\restaurante.exe.config
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\restaurante.exe
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\restaurante.pdb
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\BouncyCastle.Crypto.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\Google.Protobuf.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\K4os.Compression.LZ4.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\K4os.Hash.xxHash.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\MySql.Data.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\Renci.SshNet.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\System.Buffers.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\System.Memory.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\System.Numerics.Vectors.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\Ubiety.Dns.Core.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\Zstandard.Net.dll
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\Google.Protobuf.xml
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\K4os.Compression.LZ4.xml
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\K4os.Hash.xxHash.xml
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\MySql.Data.xml
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\Renci.SshNet.xml
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\System.Buffers.xml
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\System.Memory.xml
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\System.Numerics.Vectors.xml
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.csproj.AssemblyReference.cache
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.csproj.SuggestedBindingRedirects.cache
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.frmPedidos.resources
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.frmCardapio.resources
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.frmClientes.resources
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.frmLogin.resources
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.frmMenu.resources
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.frmNovoItem.resources
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.frmPesquisaCli.resources
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.Properties.Resources.resources
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.csproj.GenerateResource.cache
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.csproj.CoreCompileInputs.cache
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.csproj.CopyComplete
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.exe
+D:\Getulio\uninove\copia-projeto\restaurante - Copia\3semestre-restaurante\restaurante\obj\Debug\restaurante.pdb
